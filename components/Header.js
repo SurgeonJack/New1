@@ -28,9 +28,9 @@ function Header({ onStartExperience, onLearnMore, onServices, onLogin, user, onL
                 <div className="max-w-7xl mx-auto flex items-center justify-between">
                     <div className="flex items-center space-x-3">
                         <div className="w-10 h-10 bg-white rounded-lg flex items-center justify-center shadow-md">
-                            <span className="jec-artistic-logo">JEC</span>
+                            <span className="jec-artistic-logo">Surgeon Jack 3M</span>
                         </div>
-                        <span className="text-white font-semibold text-xl">Rhythm healing</span>
+                        <span className="text-white font-semibold text-xl">Surgeon Jack 3M</span>
                     </div>
                     
                     {/* Desktop Menu */}
